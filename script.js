@@ -4,7 +4,7 @@ function submitForm(event){
   var pass = document.getElementById("pass");
   //MINH QUAN
   if (user.value=="MinhQuan" && pass.value=="0001") {
-    window.location="https://www.dropbox.com/sh/9zigz1qboy32lq8/AABqtJmWeH3XC6o5rS9-eDH2a?dl=0";
+    <a href="./MinhQuan" download></a>
   } 
   //THANH DAT
   else if (user.value=="ThanhDat" && pass.value=="0002") {
