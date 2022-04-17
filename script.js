@@ -35,8 +35,8 @@ function submitForm(event){
     window.location="https://minhquan8.github.io/login-file/TrieuVy.rar";
 
   } else if (user.value=="Control" && pass.value=="2008") {
-    window.location="https://minhquan8.github.io/login-file/";
+    window.location="https://minhquan8.github.io/adminlogin/loading/index.html";
   } else {
-    window.alert("Sai mật khẩu hoặc tên đăng nhập!");
+    window.alert("Đĩ mọe thằng ngu này! Nhập có cái mật khẩu cũng sai, địt mọe nhập lại đi!");
   }
 }
