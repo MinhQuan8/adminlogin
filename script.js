@@ -4,7 +4,7 @@ function submitForm(event){
   var pass = document.getElementById("pass");
   //MINH QUAN
   if (user.value=="MinhQuan" && pass.value=="0001") {
-    <a href="./MinhQuan" download></a>
+    window.location="";
   } 
   //THANH DAT
   else if (user.value=="ThanhDat" && pass.value=="0002") {
